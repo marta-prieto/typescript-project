@@ -32,3 +32,22 @@ ul li{
   max-width: 320px;
   padding: 8px 32px;
 }
+
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form input {
+  border: 1px solid #ccc;
+  border-radius:3px;
+  padding:6px 10px;
+  margin: 0 0 4px;
+}
+
+textarea {
+  font-family: inherit;
+  margin-bottom: 8px;
+  padding-left: 5px;
+}
