@@ -1,0 +1,19 @@
+{
+    "subs": [
+        {
+            "nick": "even",
+            "subMonths": 3,
+            "avatar": "https://i.pravatar.cc/300",
+            "description": "moderador"
+          },
+          {
+            "nick": "violeta",
+            "subMonths": 6,
+            "avatar": "https://i.pravatar.cc/400"
+        
+          }
+    ]
+}
+
+
+  
